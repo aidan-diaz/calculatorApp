@@ -1,6 +1,8 @@
 Aidan Diaz Calculator App
 HTML5, CSS3, Javascript - very basic calculator app that takes in two user inputs and returns the result of an equation, using the selected operator
 
+![alt text](css/coverImage.png) 
+
 Link to site: https://verybasiccalculatorapp.netlify.app/
 
 How It's Made:
